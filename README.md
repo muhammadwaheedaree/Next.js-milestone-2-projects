@@ -1,4 +1,2 @@
-
-
-###Next.js Project Showcase
+Next.js Project Showcase
 
