@@ -19,36 +19,6 @@ A stylish and modern e-commerce landing page built to match a Figma design. This
 - 🛡️ **TypeScript**: Adds type safety, making the code more maintainable and reliable.
 - 🎨 **Tailwind CSS**: Enables rapid and responsive styling, making customization simple and matching the Figma design accurately.
 
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-- 🖥️ Node.js and npm installed on your machine.
-
-### Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/e-commerce-landing-page.git
-   cd e-commerce-landing-page
-   ```
-
-2. **Install dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**:
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open 🌐 [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🎯 Project Purpose
 
