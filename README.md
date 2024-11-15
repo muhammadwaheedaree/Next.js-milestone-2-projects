@@ -19,7 +19,7 @@ To run any project in this repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/muhammadwaheedaree/Next.js-projects.git
    ```
 
 2. **Navigate to the project folder:**
