@@ -55,8 +55,8 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 ## 📬 Connect
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/muhammadwaheedaree/)
-- **GitHub**: [Your GitHub](https://github.com/muhammadwaheedaree)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/muhammadwaheedaree/)
+- **GitHub**: [My GitHub](https://github.com/muhammadwaheedaree)
 
 ---
 
