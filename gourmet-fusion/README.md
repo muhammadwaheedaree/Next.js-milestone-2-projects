@@ -28,30 +28,6 @@ This website serves as an online presence for a restaurant, providing visitors w
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/muhammadwaheedaree
-   cd gourmet-fusion
-   ```
-
-2. **Install dependencies**  
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**  
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and visit `http://localhost:3000` to view the website.
-
----
-
 ## ✨ Features
 
 - **Responsive Design**: Works seamlessly across desktop and mobile devices.
@@ -79,8 +55,8 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 ## 📬 Connect
 
-- **LinkedIn**: [Your LinkedIn](#)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/muhammadwaheedaree/)
+- **GitHub**: [Your GitHub](https://github.com/muhammadwaheedaree)
 
 ---
 
