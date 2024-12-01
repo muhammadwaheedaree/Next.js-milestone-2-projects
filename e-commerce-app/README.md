@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛒 Trendy Mart - E-Commerce App  
 
-## Getting Started
+**A modern, responsive e-commerce website showcasing my Next.js, TypeScript, and custom CSS skills.**  
 
-First, run the development server:
+🌟 **[Live Demo](https://trendy-mart-ecommerce-app.vercel.app/)**  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📖 Overview  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Trendy Mart** is a sleek, user-friendly e-commerce application built to demonstrate my technical expertise in **Next.js**, **TypeScript**, and **custom CSS**. The website is designed to simulate an online shopping experience with a professional and modern interface.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project serves as a showcase of my **front-end development skills**, attention to detail, and ability to deliver high-quality, responsive designs.  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Key Features  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **🚀 Built with Next.js & TypeScript**: Highlights my proficiency in creating fast, scalable, and modern web applications.  
+- **🎨 Custom CSS**: Every style element is carefully designed to achieve a clean, professional look.  
+- **📱 Responsive Design**: Optimized for desktops, tablets, and mobile devices, ensuring a seamless user experience on any screen size.  
+- **⚡ Hosted on Vercel**: Deployed for fast and reliable global access.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎯 Purpose  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The primary goal of this project is:  
+- To **showcase my expertise** in building modern web applications using **Next.js** and **TypeScript**.  
+- To **highlight my design skills** with a focus on custom CSS for professional, responsive layouts.  
+- To demonstrate my ability to develop an **e-commerce website**, a widely demanded web application type in the industry.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ✨ Tech Stack  
+
+- **Framework**: Next.js  
+- **Language**: TypeScript  
+- **Styling**: Custom CSS  
+- **Hosting**: Vercel  
+
+---
+
+## 🙌 Acknowledgment  
+
+This e-commerce website represents my learning journey and growth in **Next.js**, **TypeScript**, and **CSS**. It serves as a live demonstration of my ability to design and develop professional-grade web applications.  
